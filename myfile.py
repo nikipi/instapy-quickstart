@@ -56,7 +56,7 @@ with smart_run(session):
                  'visiting', 'ilovetravel','minimalstyle','stylinginspo','dailyfashionpo','styletrends'
                 ]
     random.shuffle(hashtags)
-    my_hashtags = hashtags[:10]
+    my_hashtags = hashtags[:5]
 
     # unfollow activity
 
